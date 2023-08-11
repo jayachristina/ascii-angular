@@ -6,7 +6,3 @@ A description of the story that was used to build the demo and architectures of 
 
 This is a summary of the solution
 
-
-++++
-<iframe src="https://redhat-solution-patterns.github.io/rh-solution-patterns/"></iframe>
-++++
